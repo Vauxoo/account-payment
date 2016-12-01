@@ -222,10 +222,6 @@
             <field name="print_on_check">Singapore dollars</field>
         </record>
 
-        <record id="base.SIT" model="res.currency">
-            <field name="print_on_check">slovenian tolars</field>
-        </record>
-
         <record id="base.SKK" model="res.currency">
             <field name="print_on_check">slovak korunas</field>
         </record>
@@ -236,10 +232,6 @@
 
         <record id="base.TND" model="res.currency">
             <field name="print_on_check">tunisian dinars</field>
-        </record>
-
-        <record id="base.TRL" model="res.currency">
-            <field name="print_on_check">turkish liras</field>
         </record>
 
         <record id="base.TWD" model="res.currency">
